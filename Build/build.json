@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "void-game",
+"productName": "void2",
 "productVersion": "0.1",
 "dataUrl": "build.data.unityweb",
 "wasmCodeUrl": "build.wasm.code.unityweb",
@@ -8,7 +8,7 @@
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
-"backgroundColor": "#F7F7F7",
+"backgroundColor": "#FFFFFF",
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
